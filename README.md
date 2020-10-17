@@ -24,14 +24,14 @@ I am passionate about coding. I'm building projects mostly in Java but I also lo
 #### Tools and Frameworks
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
   <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
   <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
   <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
   <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/Flurex/Flurex/main/resources/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 </p>
