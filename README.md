@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hello World! 🌎
 
-<!--
-**Flurex/Flurex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ Programming | 💙 Tchoukball | 💛 Austria
 
-Here are some ideas to get you started:
+I'm a learning Developer. I love coding in Java but I'm also doing side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning Laravel PHP Framework
+- 👯 I’m looking to collaborate on App and Web Development Projects
+- 💬 Ask me about anything! I will try to help you as best as I can.
+- 📫 How to reach me: <a href="https://twitter.com/Flurex_Dev">Twitter</a> | <a href="mailto:larsfattinger33@gmail.com">E-Mail</a>
+
+----
+
+#### How about some Stats?
+
+<img src="https://github-readme-stats.vercel.app/api?username=Flurex&show_icons=true">
