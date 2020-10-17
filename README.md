@@ -15,3 +15,4 @@ I'm a learning Developer. I love coding in Java but I'm also doing side projects
 #### How about some Stats?
 
 <img src="https://github-readme-stats.vercel.app/api?username=Flurex&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flurex" align="right">
