@@ -2,7 +2,7 @@
 
 ❤️ Programming | 💙 Tchoukball | 💛 Austria
 
-I'm a learning Developer. I love coding in Java but I'm also doing side projects
+I am passionate about coding. I'm building projects mostly in Java but I also love Web and App Development.
 
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Laravel PHP Framework
